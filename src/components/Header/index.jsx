@@ -5,11 +5,11 @@ import NavBar from "../NavBar"
 const Header = () => {
   return (
     <Container>
-      <Link to="/">
-        <Logo>
-          <p>Daniele Calixto</p>
-        </Logo>
-      </Link>
+      <h1>
+        <Link to="/">
+          <Logo>Daniele Calixto</Logo>
+        </Link>
+      </h1>
       <NavBar></NavBar>
     </Container>
   )
