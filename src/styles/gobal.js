@@ -19,7 +19,7 @@ export default createGlobalStyle`
     }
 
     #root{
-        background: #e2e2e2;
+        background-color: #e2e2e2;
         color: #443235;
         height:100%;
         display: flex;
@@ -55,5 +55,27 @@ export default createGlobalStyle`
 
     button{
         cursor:pointer;
+    }
+
+    p {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 12px;
+        margin-bottom: 5px;
+        line-height: 2;
+    }
+
+    h2 {
+        font-family: "Courier New", Courier, monospace;
+        font-weight: lighter;
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    h3{
+        font-family: "Courier New", Courier, monospace;
+        font-weight: lighter;
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
 `
