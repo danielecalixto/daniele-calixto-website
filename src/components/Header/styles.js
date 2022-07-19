@@ -18,12 +18,10 @@ export const Container = styled.div`
 
 export const Logo = styled.button`
   @import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap");
-  p {
-    margin-top: 10px;
-    font-family: "Source Code Pro", monospace;
-    font-size: 50px;
-    font-weight: lighter;
-  }
+  margin-top: 10px;
+  font-family: "Source Code Pro", monospace;
+  font-size: 50px;
+  font-weight: lighter;
   border: none;
   background: transparent;
 `
