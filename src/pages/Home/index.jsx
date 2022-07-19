@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom"
 import Header from "../../components/Header"
-import SideBar from "../../components/SideBar"
 import { Container } from "./styles"
 
 const Home = () => {
