@@ -1,5 +1,8 @@
 import { Link } from "react-router-dom"
+
 import Header from "../../components/Header"
+import Footer from "../../components/Footer"
+
 import { Container, Images } from "./styles"
 
 const Home = () => {
@@ -17,7 +20,7 @@ const Home = () => {
         <p className="contact">
           More details? <Link to="/about">Click here.</Link>
         </p>
-        <h3>TECHNOLOGIES</h3>
+        <h3>SKILLS</h3>
         <Images>
           <img
             alt="javascript"
@@ -78,10 +81,11 @@ const Home = () => {
         </Images>
 
         <p className="contact">
-          You can reach me in English or Portuguse.{" "}
+          You can reach me in English or Portuguese.{" "}
           <Link to="/contact">Let's talk?</Link>
         </p>
       </Container>
+      <Footer></Footer>
     </div>
   )
 }
