@@ -17,4 +17,12 @@ export const Container = styled.nav`
     text-decoration: none;
     color: #443235;
   }
+
+  @media (min-width: 450px) {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    ul {
+      font-size: 25px;
+    }
+  }
 `
