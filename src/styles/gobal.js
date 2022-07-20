@@ -78,4 +78,17 @@ export default createGlobalStyle`
         margin-top: 20px;
         margin-bottom: 10px;
     }
+
+    @media (min-width: 450px) {
+        h2 {
+            font-size: 40px;
+        }
+        h3 {
+            font-size: 35px;
+        }
+        p {
+            font-size: 25px;
+        }
+    }
+
 `
