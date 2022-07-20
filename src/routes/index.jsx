@@ -4,6 +4,7 @@ import Home from "../pages/Home"
 import Contact from "../pages/Contact"
 import About from "../pages/About"
 import Projects from "../pages/Projects"
+import Articles from "../pages/Articles"
 
 const Routes = () => {
   return (
@@ -19,6 +20,9 @@ const Routes = () => {
       </Route>
       <Route exact path="/contact">
         <Contact />
+      </Route>
+      <Route exact path="/articles">
+        <Articles />
       </Route>
     </Switch>
   )
