@@ -18,8 +18,9 @@ export const Container = styled.div`
     margin-bottom: 30px;
   }
 
-  @media (min-width: 450px) {
-    margin: 5vw 5vw 0vw 5vw;
+  @media (min-width: 650px) {
+    width: 84vw;
+    margin: 5vw 8vw 0vw 8vw;
     h3 {
       margin-top: 5vw;
     }
@@ -41,6 +42,10 @@ export const Images = styled.div`
       margin: 15px 25px 15px 0px;
       width: 65px;
       height: 65px;
+    }
+    img:hover {
+      width: 70px;
+      height: 70px;
     }
   }
 `
