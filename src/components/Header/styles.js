@@ -23,6 +23,7 @@ export const Container = styled.div`
     margin-top: 25px;
     display: flex;
     flex-direction: row;
+    align-items: center;
     h1 {
       width: 55vw;
     }
