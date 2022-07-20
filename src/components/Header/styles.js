@@ -15,12 +15,16 @@ export const Container = styled.div`
     margin-bottom: 10px;
   }
 
-  @media (min-width: 450px) {
+  @media (min-width: 650px) {
+    margin-top: 25px;
+  }
+
+  @media (min-width: 1024px) {
     margin-top: 25px;
     display: flex;
     flex-direction: row;
     h1 {
-      width: 50vw;
+      width: 55vw;
     }
   }
 `
@@ -34,7 +38,10 @@ export const Logo = styled.button`
   border: none;
   background: transparent;
 
-  @media (min-width: 450px) {
-    font-size: 3.5vw;
+  @media (min-width: 650px) {
+    font-size: 60px;
+  }
+  @media (min-width: 1024px) {
+    font-size: 3.8vw;
   }
 `
