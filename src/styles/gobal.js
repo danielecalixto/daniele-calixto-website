@@ -2,6 +2,7 @@ import { createGlobalStyle } from "styled-components"
 
 export default createGlobalStyle`
     *{
+        background-color: #e2e2e2;
         margin:0;
         padding:0;
         box-sizing:border-box;
@@ -19,24 +20,11 @@ export default createGlobalStyle`
     }
 
     #root{
-        background-color: #e2e2e2;
         color: #443235;
-        height:100%;
         display: flex;
         flex-direction: column;
         align-content: center;
         align-items: center;
-        --white: #FFF;
-        --black: #000;
-        --color-primary-100: #FA8223;
-        --color-primary-50: #F79527;
-        --color-primary-fading: rgba(247, 149, 39, 0.5);
-        --color-secondary-100: #83F3FA;
-        --color-secondary-50: #84F6FF80;
-        --grey-1: #222428;
-        --color-placeholder: #9EA8BD;
-        --color-text-box: #FFF3E9;
-        --color-error: #F33;
     }
 
     body,button{
@@ -79,7 +67,7 @@ export default createGlobalStyle`
         margin-bottom: 10px;
     }
 
-    @media (min-width: 450px) {
+    @media (min-width: 650px) {
         h2 {
             font-size: 40px;
         }
