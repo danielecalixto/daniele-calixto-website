@@ -1,6 +1,8 @@
+import { Container } from "./styles"
+
 const TimeLine = () => {
   return (
-    <div>
+    <Container>
       <p>
         I was born in 1994, in the country side of Minas Gerais state in Brazil.
         At school, I was always from the Exact Sciences team. I always knew that
@@ -27,7 +29,7 @@ const TimeLine = () => {
         In 2021, I decided for fact to stop working and immerse in studying
         technology for one year.
       </p>
-    </div>
+    </Container>
   )
 }
 
