@@ -18,7 +18,7 @@ export const Container = styled.nav`
     color: #443235;
   }
 
-  @media (min-width: 450px) {
+  @media (min-width: 650px) {
     margin-top: 20px;
     margin-bottom: 10px;
     ul {
