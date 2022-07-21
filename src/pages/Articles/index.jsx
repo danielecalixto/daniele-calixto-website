@@ -10,7 +10,7 @@ const Articles = () => {
       <Header></Header>
       <Container>
         <h2>Articles</h2>
-        <p>Soon...</p>
+        <p>In maintenance...</p>
       </Container>
       <BackToHome></BackToHome>
       <Footer></Footer>

@@ -4,9 +4,9 @@ const TimeLine = () => {
   return (
     <Container>
       <p>
-        I was born in 1994, in the country side of Minas Gerais state in Brazil.
-        At school, I was always from the Exact Sciences team. I always knew that
-        I want to be an engineer, but at that moment it was very difficult to
+        I was born in 1994, in the country side of Minas Gerais in Brazil. At
+        school, I was always from the Exact Sciences team. I always knew that I
+        want to be an engineer, but at that moment it was very difficult to
         decide which engineering.
       </p>
       <h3>
@@ -34,7 +34,8 @@ const TimeLine = () => {
         started my career in finances and process automation. After 2 years
         there, I decided to look for new challenges and I changed to a
         technology startup where I continued working with finance but I had more
-        contact with coding and technology.
+        contact with coding and technology. That's when I felt in love with
+        coding.
       </p>
       <h3>
         <img
@@ -45,7 +46,9 @@ const TimeLine = () => {
       </h3>
       <p>
         In 2021, I decided for fact to stop working and immerse in studying
-        technology for one year.
+        technology for one year in a full time Web Full Stack Development
+        course, that finishes in August 2022. Now I starting my path as a
+        professional developer.
       </p>
     </Container>
   )

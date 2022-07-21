@@ -14,8 +14,8 @@ const Home = () => {
         <p>I'm a Web Full Stack Developer passionate about Back End.</p>
         <p>
           I love to write about what I'm learning, so you can learn with me on{" "}
-          <Link>articles</Link> and see how I use this knowledge on{" "}
-          <Link to="/projects">projects</Link>.
+          <Link to="/articles">articles</Link> and see how I use this knowledge
+          on <Link to="/projects">projects</Link>.
         </p>
         <p className="contact">
           More details? <Link to="/about">Click here.</Link>

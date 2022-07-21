@@ -12,7 +12,7 @@ export const Container = styled.div`
   }
 
   a {
-    margin-bottom: 8px;
+    margin-bottom: 20px;
     display: flex;
     align-items: center;
     font-family: "Courier New", Courier, monospace;
@@ -29,6 +29,7 @@ export const Container = styled.div`
       margin-right: 10px;
     }
     a {
+      margin-bottom: 30px;
       font-size: 25px;
     }
   }

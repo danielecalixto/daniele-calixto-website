@@ -21,6 +21,19 @@ const Projects = () => {
         <h3>Back End</h3>
         <ul>
           <li className="project-box">
+            <p className="title">Cinema</p>
+            <p className="description">
+              API to manage cinemas with users, managers, movies, movie
+              theaters, sessions and purchase.
+            </p>
+            <a href="https://github.com/kenzie-academy-m5-t9-g14/cinema-api">
+              source
+            </a>
+            <p className="detail">
+              Developed in group during Kenzie Academy course.
+            </p>
+          </li>
+          <li className="project-box">
             <p className="title">Shop</p>
             <p className="description">
               API to manage a shop with products, sellers and buyers.

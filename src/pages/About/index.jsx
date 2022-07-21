@@ -15,8 +15,14 @@ const About = () => {
         <div>
           <p>
             More professional information?
-            <a href="https://www.linkedin.com/in/daniele-calixto-barros/">
+            <a href="https://drive.google.com/file/d/1o-BilCm9RhX8F0tIHpMZb6pTYc7wJhH9/view?usp=sharing">
               My Resume.
+            </a>
+          </p>
+          <p>
+            - Currículo em
+            <a href="https://drive.google.com/file/d/1v4vdQsY_1jTIbnSGg23PjySPj0qKur8O/view?usp=sharing">
+              Português.
             </a>
           </p>
           <a href="https://www.linkedin.com/in/daniele-calixto-barros/">
