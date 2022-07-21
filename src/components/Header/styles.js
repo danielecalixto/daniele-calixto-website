@@ -34,6 +34,7 @@ export const Logo = styled.button`
   @import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap");
   margin-top: 10px;
   font-family: "Source Code Pro", monospace;
+  color: #443235;
   font-size: 50px;
   font-weight: lighter;
   border: none;
