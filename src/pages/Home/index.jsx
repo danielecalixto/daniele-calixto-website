@@ -11,7 +11,7 @@ const Home = () => {
       <Header />
       <Container>
         <h2>Hi, I'm Daniele!</h2>
-        <p>I'm a Web Full Stack Developer passionate about Back End.</p>
+        <p>I'm a Back End Developer.</p>
         <p>
           I love to write about what I'm learning, so you can learn with me on{" "}
           <Link to="/articles">articles</Link> and see how I use this knowledge
