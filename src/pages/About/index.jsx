@@ -21,7 +21,7 @@ const About = () => {
           </p>
           <p>
             - Currículo em
-            <a href="https://drive.google.com/file/d/1v4vdQsY_1jTIbnSGg23PjySPj0qKur8O/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1DfoThBezmi8OUGDZ09KbMLSXegiC1RkK/view?usp=sharing">
               Português.
             </a>
           </p>

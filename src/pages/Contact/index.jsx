@@ -34,7 +34,7 @@ const Contact = () => {
         <a href="https://drive.google.com/file/d/1o-BilCm9RhX8F0tIHpMZb6pTYc7wJhH9/view?usp=sharing">
           RESUME - English
         </a>
-        <a href="https://drive.google.com/file/d/1v4vdQsY_1jTIbnSGg23PjySPj0qKur8O/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1DfoThBezmi8OUGDZ09KbMLSXegiC1RkK/view?usp=sharing">
           CURRÍCULO - Português
         </a>
       </Container>

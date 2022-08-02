@@ -17,9 +17,9 @@ const TimeLine = () => {
         College
       </h3>
       <p>
-        In 2015, I started the bachelor in Civil Engineering in the Brazilian
-        Federal Center of Technology (Cefet-MG). I tried an internship in
-        construction but definitely It wasn't for me. Still in college, I
+        In 2015, I started the bachelor in Civil Production Engineering in the
+        Brazilian Federal Center of Technology (Cefet-MG). I tried an internship
+        in construction but definitely It wasn't for me. Still in college, I
         decided to try other areas by practicing.
       </p>
       <h3>
@@ -31,11 +31,10 @@ const TimeLine = () => {
       </h3>
       <p>
         I had an opportunity in an award products factory and that's where I
-        started my career in finances and process automation. After 2 years
-        there, I decided to look for new challenges and I changed to a
-        technology startup where I continued working with finance but I had more
-        contact with coding and technology. That's when I felt in love with
-        coding.
+        started my career in finances. After 2 years there, I decided to look
+        for new challenges and I changed to a technology startup where I
+        continued working with finance but I had more contact with coding and
+        technology. That's when I felt in love with coding.
       </p>
       <h3>
         <img
